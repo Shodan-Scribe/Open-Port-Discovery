@@ -1,4 +1,9 @@
 # Open-Port-Discovery
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Tool](https://img.shields.io/badge/Tool-PowerShell-blue)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Attack%20Surface%20Discovery-red)
+![Focus](https://img.shields.io/badge/Focus-Network%20Security-red)
 ### Identifying active network services and listening ports to analyze potential attack surfaces.
 
 ## Objective
